@@ -51,7 +51,7 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_2} alt="" />
                     <div>
-                    <h3>Sherin 2</h3>
+                    <h3>John</h3>
                     <span>Edusity, India</span>
                 </div>
                 </div>
@@ -63,7 +63,7 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_3} alt="" />
                     <div>
-                    <h3>Sherin</h3>
+                    <h3>Jothi</h3>
                     <span>Edusity, India</span>
                 </div>
                 </div>
@@ -75,7 +75,7 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_4} alt="" />
                     <div>
-                    <h3>Sherin</h3>
+                    <h3>Annie</h3>
                     <span>Edusity, India</span>
                 </div>
                 </div>
